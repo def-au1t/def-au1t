@@ -3,7 +3,7 @@
 
 My name is Jacek Nitychoruk and I am third year student of computer science at the faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology in Cracow, Poland.
 
-If you need more informationa about me, you can follow the link: 
+If you need more information about me, you can follow the link: 
 
 [My Website](https://www.nitychoruk.pl)
 
