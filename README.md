@@ -1,13 +1,19 @@
 ### Hi there 👋
 
 
-My name is Jacek Nitychoruk and I am third year student of computer science at the faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology in Cracow, Poland.
+My name is Jacek Nitychoruk and I am software developer.
 
-If you need more information about me, you can follow the link: 
+Currently, I'm software engineer in [Software Mansion](https://swmansion.com/). My professional experience is related to web and mobile development. I work mostly with React Native, React.js and Node.js, but I'm also not afraid of lower-level technologies. 
 
-[My Website](https://www.nitychoruk.pl)
+Right now, I'm part of [Comm](https://comm.app/) developer team.
 
-Feel free to contribute, comment and laugh at my code 😀
+I'm also fourth year student of Computer Science at the faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology in Cracow, Poland.
+
+If you need more information about me, you can follow the links: 
+
+- [My Personal Website](https://nitychor.uk)
+- [My LinkedIn Profile](https://www.linkedin.com/in/jacek-nitychoruk/)
+
 
 <!--
 **def-au1t/def-au1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
