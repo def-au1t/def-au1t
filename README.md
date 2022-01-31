@@ -7,7 +7,7 @@ Currently, I'm software engineer in [Software Mansion](https://swmansion.com/). 
 
 Right now, I'm part of [Comm](https://comm.app/) developer team.
 
-I'm also fourth year student of Computer Science at the faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology in Cracow, Poland.
+I've also graduated with honours with engineer's degree in Computer Science at the faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology in Cracow, Poland.
 
 If you need more information about me, you can follow the links: 
 
