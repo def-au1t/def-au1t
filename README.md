@@ -9,7 +9,7 @@ Currently, I'm software engineer in [Software Mansion](https://swmansion.com/). 
 
 I'm masters degree student in Computer Science at the faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology in Cracow, Poland.
 
-If you need more information about me, you can follow the links: 
+If you need more information about me, you can follow: 
 
 <!-- - [My Personal Website](https://nitychor.uk) -->
 - [My LinkedIn Profile](https://www.linkedin.com/in/jacek-nitychoruk/)
