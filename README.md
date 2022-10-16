@@ -5,13 +5,13 @@ My name is Jacek Nitychoruk and I am software developer.
 
 Currently, I'm software engineer in [Software Mansion](https://swmansion.com/). My professional experience is related to web and mobile development. I work mostly with React Native, React.js and Node.js, but I'm also not afraid of lower-level technologies. 
 
-Right now, I'm part of [Comm](https://comm.app/) developer team.
+<!-- Right now, I'm part of [Comm](https://comm.app/) developer team. -->
 
-I've also graduated with honours with engineer's degree in Computer Science at the faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology in Cracow, Poland.
+I'm masters degree student in Computer Science at the faculty of Computer Science, Electronics and Telecommunications at AGH University of Science and Technology in Cracow, Poland.
 
 If you need more information about me, you can follow the links: 
 
-- [My Personal Website](https://nitychor.uk)
+<!-- - [My Personal Website](https://nitychor.uk) -->
 - [My LinkedIn Profile](https://www.linkedin.com/in/jacek-nitychoruk/)
 
 
