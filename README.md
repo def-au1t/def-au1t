@@ -3,7 +3,7 @@
 
 My name is Jacek Nitychoruk and I am software developer.
 
-Currently, I'm software engineer [@Software Mansion](https://swmansion.com/). My professional experience is related to web and mobile development. I work mostly with React Native, React.js and Node.js, but I'm also not afraid of lower-level technologies. 
+Currently, I'm software engineer @ [Software Mansion](https://swmansion.com/). My professional experience is related to web and mobile development. I work mostly with React Native, React.js and Node.js, but I'm also not afraid of lower-level technologies. 
 
 <!-- Right now, I'm part of [Comm](https://comm.app/) developer team. -->
 
